@@ -178,3 +178,51 @@ Fetched Clarín: 728082 bytes
 Found 45 elements for selector "article, div[class*="content-"]" in Clarín
 Fetched Clarín: 3266748 bytes
 Found 110 elements for selector "article, div[class*="content-"]" in Clarín
+Starting scrape for Clarín (https://www.clarin.com/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/)
+Starting scrape for Infobae (https://www.infobae.com/)
+Starting scrape for Clarín (https://www.clarin.com/politica/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/politica/)
+Starting scrape for Infobae (https://www.infobae.com/politica/)
+Starting scrape for Clarín (https://www.clarin.com/economia/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/economia/)
+Starting scrape for Infobae (https://www.infobae.com/economia/)
+Starting scrape for Clarín (https://www.clarin.com/deportes/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/deportes/)
+Starting scrape for Infobae (https://www.infobae.com/deportes/)
+Fetched Infobae: 315319 bytes
+Found 40 elements for selector "a[class*="story-card"]" in Infobae
+Fetched La Nación: 242486 bytes
+Found 34 elements for selector "article" in La Nación
+Fetched Infobae: 251347 bytes
+Found 30 elements for selector "a[class*="story-card"]" in Infobae
+Fetched Infobae: 156286 bytes
+Found 0 elements for selector "a[class*="story-card"]" in Infobae
+Fetched La Nación: 439751 bytes
+Found 37 elements for selector "article" in La Nación
+Fetched La Nación: 566177 bytes
+Found 64 elements for selector "article" in La Nación
+Fetched La Nación: 890521 bytes
+Found 145 elements for selector "article" in La Nación
+Fetched Infobae: 790741 bytes
+Found 144 elements for selector "a[class*="story-card"]" in Infobae
+Fetched Clarín: 559830 bytes
+Found 37 elements for selector "article, div[class*="content-"]" in Clarín
+Fetched Clarín: 597687 bytes
+Found 37 elements for selector "article, div[class*="content-"]" in Clarín
+Fetched Clarín: 728082 bytes
+Found 45 elements for selector "article, div[class*="content-"]" in Clarín
+Fetched Clarín: 3266748 bytes
+Found 110 elements for selector "article, div[class*="content-"]" in Clarín
+Starting scrape for Clarín (https://www.clarin.com/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/)
+Starting scrape for Infobae (https://www.infobae.com/)
+Starting scrape for Clarín (https://www.clarin.com/politica/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/politica/)
+Starting scrape for Infobae (https://www.infobae.com/politica/)
+Starting scrape for Clarín (https://www.clarin.com/economia/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/economia/)
+Starting scrape for Infobae (https://www.infobae.com/economia/)
+Starting scrape for Clarín (https://www.clarin.com/deportes/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/deportes/)
+Starting scrape for Infobae (https://www.infobae.com/deportes/)

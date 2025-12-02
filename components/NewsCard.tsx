@@ -41,7 +41,7 @@ export function NewsCard({ news }: NewsCardProps) {
         </h3>
         
         <p className="text-gray-600 dark:text-gray-300 text-sm mb-4 line-clamp-3 flex-1">
-          {news.description.replace(/<[^>]*>?/gm, '')}
+          {(news.description || '').replace(/<[^>]*>?/gm, '')}
         </p>
         
         <div className="mt-auto pt-4 border-t border-gray-100 dark:border-gray-700 flex items-center justify-between text-xs text-gray-500 dark:text-gray-400">
