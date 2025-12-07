@@ -1714,3 +1714,363 @@ Fetched La Nación: 439967 bytes
 Found 37 elements for selector "article" in La Nación
 Fetched Infobae: 318436 bytes
 Found 40 elements for selector "a[class*="story-card"]" in Infobae
+Starting scrape for Clarín (https://www.clarin.com/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/)
+Starting scrape for Infobae (https://www.infobae.com/)
+Starting scrape for Clarín (https://www.clarin.com/politica/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/politica/)
+Starting scrape for Infobae (https://www.infobae.com/politica/)
+Starting scrape for Clarín (https://www.clarin.com/economia/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/economia/)
+Starting scrape for Infobae (https://www.infobae.com/economia/)
+Starting scrape for Clarín (https://www.clarin.com/deportes/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/deportes/)
+Starting scrape for Infobae (https://www.infobae.com/deportes/)
+Fetched Infobae: 157714 bytes
+Found 0 elements for selector "a[class*="story-card"]" in Infobae
+Fetched La Nación: 243228 bytes
+Found 34 elements for selector "article" in La Nación
+Fetched Infobae: 252554 bytes
+Found 30 elements for selector "a[class*="story-card"]" in Infobae
+Fetched La Nación: 438894 bytes
+Found 37 elements for selector "article" in La Nación
+Fetched La Nación: 565882 bytes
+Found 68 elements for selector "article" in La Nación
+Fetched Infobae: 318792 bytes
+Found 40 elements for selector "a[class*="story-card"]" in Infobae
+Fetched La Nación: 896213 bytes
+Found 142 elements for selector "article" in La Nación
+Fetched Infobae: 776781 bytes
+Found 129 elements for selector "a[class*="story-card"]" in Infobae
+Fetched Clarín: 562611 bytes
+Found 37 elements for selector "article, div[class*="content-"]" in Clarín
+Fetched Clarín: 592824 bytes
+Found 37 elements for selector "article, div[class*="content-"]" in Clarín
+Fetched Clarín: 746550 bytes
+Found 63 elements for selector "article, div[class*="content-"]" in Clarín
+Fetched Clarín: 3115624 bytes
+Found 119 elements for selector "article, div[class*="content-"]" in Clarín
+Starting scrape for Clarín (https://www.clarin.com/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/)
+Starting scrape for Infobae (https://www.infobae.com/)
+Starting scrape for Clarín (https://www.clarin.com/politica/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/politica/)
+Starting scrape for Infobae (https://www.infobae.com/politica/)
+Starting scrape for Clarín (https://www.clarin.com/economia/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/economia/)
+Starting scrape for Infobae (https://www.infobae.com/economia/)
+Starting scrape for Clarín (https://www.clarin.com/deportes/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/deportes/)
+Starting scrape for Infobae (https://www.infobae.com/deportes/)
+Fetched Infobae: 157713 bytes
+Found 0 elements for selector "a[class*="story-card"]" in Infobae
+Fetched Infobae: 252556 bytes
+Found 30 elements for selector "a[class*="story-card"]" in Infobae
+Fetched La Nación: 242621 bytes
+Found 34 elements for selector "article" in La Nación
+Fetched Infobae: 318792 bytes
+Found 40 elements for selector "a[class*="story-card"]" in Infobae
+Fetched La Nación: 438877 bytes
+Found 37 elements for selector "article" in La Nación
+Fetched La Nación: 565688 bytes
+Found 68 elements for selector "article" in La Nación
+Fetched Infobae: 776782 bytes
+Found 129 elements for selector "a[class*="story-card"]" in Infobae
+Fetched La Nación: 899214 bytes
+Found 143 elements for selector "article" in La Nación
+Starting scrape for Clarín (https://www.clarin.com/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/)
+Starting scrape for Infobae (https://www.infobae.com/)
+Starting scrape for Clarín (https://www.clarin.com/politica/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/politica/)
+Starting scrape for Infobae (https://www.infobae.com/politica/)
+Starting scrape for Clarín (https://www.clarin.com/economia/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/economia/)
+Starting scrape for Infobae (https://www.infobae.com/economia/)
+Starting scrape for Clarín (https://www.clarin.com/deportes/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/deportes/)
+Starting scrape for Infobae (https://www.infobae.com/deportes/)
+Fetched Clarín: 562611 bytes
+Found 37 elements for selector "article, div[class*="content-"]" in Clarín
+Fetched Infobae: 157713 bytes
+Found 0 elements for selector "a[class*="story-card"]" in Infobae
+Fetched Clarín: 592824 bytes
+Found 37 elements for selector "article, div[class*="content-"]" in Clarín
+Fetched La Nación: 242621 bytes
+Found 34 elements for selector "article" in La Nación
+Fetched Infobae: 252556 bytes
+Found 30 elements for selector "a[class*="story-card"]" in Infobae
+Fetched Infobae: 318792 bytes
+Found 40 elements for selector "a[class*="story-card"]" in Infobae
+Fetched Clarín: 746550 bytes
+Found 63 elements for selector "article, div[class*="content-"]" in Clarín
+Fetched La Nación: 438877 bytes
+Found 37 elements for selector "article" in La Nación
+Fetched La Nación: 565688 bytes
+Found 68 elements for selector "article" in La Nación
+Fetched Infobae: 776782 bytes
+Found 129 elements for selector "a[class*="story-card"]" in Infobae
+Fetched Clarín: 562611 bytes
+Found 37 elements for selector "article, div[class*="content-"]" in Clarín
+Fetched Clarín: 592824 bytes
+Found 37 elements for selector "article, div[class*="content-"]" in Clarín
+Fetched La Nación: 899214 bytes
+Found 143 elements for selector "article" in La Nación
+Fetched Clarín: 746550 bytes
+Found 63 elements for selector "article, div[class*="content-"]" in Clarín
+Fetched Clarín: 3115624 bytes
+Found 119 elements for selector "article, div[class*="content-"]" in Clarín
+Fetched Clarín: 3115624 bytes
+Found 119 elements for selector "article, div[class*="content-"]" in Clarín
+Starting scrape for Clarín (https://www.clarin.com/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/)
+Starting scrape for Infobae (https://www.infobae.com/)
+Starting scrape for Clarín (https://www.clarin.com/politica/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/politica/)
+Starting scrape for Infobae (https://www.infobae.com/politica/)
+Starting scrape for Clarín (https://www.clarin.com/economia/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/economia/)
+Starting scrape for Infobae (https://www.infobae.com/economia/)
+Starting scrape for Clarín (https://www.clarin.com/deportes/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/deportes/)
+Starting scrape for Infobae (https://www.infobae.com/deportes/)
+Fetched Infobae: 157713 bytes
+Found 0 elements for selector "a[class*="story-card"]" in Infobae
+Fetched Infobae: 252556 bytes
+Found 30 elements for selector "a[class*="story-card"]" in Infobae
+Fetched La Nación: 242622 bytes
+Found 34 elements for selector "article" in La Nación
+Fetched Infobae: 318791 bytes
+Found 40 elements for selector "a[class*="story-card"]" in Infobae
+Fetched La Nación: 438876 bytes
+Found 37 elements for selector "article" in La Nación
+Fetched La Nación: 565688 bytes
+Found 68 elements for selector "article" in La Nación
+Fetched Infobae: 776781 bytes
+Found 129 elements for selector "a[class*="story-card"]" in Infobae
+Fetched Clarín: 562611 bytes
+Found 37 elements for selector "article, div[class*="content-"]" in Clarín
+Fetched La Nación: 899214 bytes
+Found 143 elements for selector "article" in La Nación
+Fetched Clarín: 592824 bytes
+Found 37 elements for selector "article, div[class*="content-"]" in Clarín
+Fetched Clarín: 746550 bytes
+Found 63 elements for selector "article, div[class*="content-"]" in Clarín
+Fetched Clarín: 3115624 bytes
+Found 119 elements for selector "article, div[class*="content-"]" in Clarín
+Starting scrape for Clarín (https://www.clarin.com/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/)
+Starting scrape for Infobae (https://www.infobae.com/)
+Starting scrape for Clarín (https://www.clarin.com/politica/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/politica/)
+Starting scrape for Infobae (https://www.infobae.com/politica/)
+Starting scrape for Clarín (https://www.clarin.com/economia/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/economia/)
+Starting scrape for Infobae (https://www.infobae.com/economia/)
+Starting scrape for Clarín (https://www.clarin.com/deportes/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/deportes/)
+Starting scrape for Infobae (https://www.infobae.com/deportes/)
+Fetched Infobae: 157766 bytes
+Found 0 elements for selector "a[class*="story-card"]" in Infobae
+Fetched Infobae: 252309 bytes
+Found 30 elements for selector "a[class*="story-card"]" in Infobae
+Fetched Infobae: 318604 bytes
+Found 40 elements for selector "a[class*="story-card"]" in Infobae
+Fetched La Nación: 243197 bytes
+Found 34 elements for selector "article" in La Nación
+Fetched La Nación: 438866 bytes
+Found 37 elements for selector "article" in La Nación
+Fetched Infobae: 776951 bytes
+Found 129 elements for selector "a[class*="story-card"]" in Infobae
+Fetched La Nación: 565539 bytes
+Found 68 elements for selector "article" in La Nación
+Fetched La Nación: 897344 bytes
+Found 143 elements for selector "article" in La Nación
+Fetched Clarín: 592824 bytes
+Found 37 elements for selector "article, div[class*="content-"]" in Clarín
+Fetched Clarín: 562611 bytes
+Found 37 elements for selector "article, div[class*="content-"]" in Clarín
+Fetched Clarín: 746550 bytes
+Found 63 elements for selector "article, div[class*="content-"]" in Clarín
+Starting scrape for Clarín (https://www.clarin.com/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/)
+Starting scrape for Infobae (https://www.infobae.com/)
+Starting scrape for Clarín (https://www.clarin.com/politica/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/politica/)
+Starting scrape for Infobae (https://www.infobae.com/politica/)
+Starting scrape for Clarín (https://www.clarin.com/economia/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/economia/)
+Starting scrape for Infobae (https://www.infobae.com/economia/)
+Starting scrape for Clarín (https://www.clarin.com/deportes/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/deportes/)
+Starting scrape for Infobae (https://www.infobae.com/deportes/)
+Fetched Infobae: 157766 bytes
+Found 0 elements for selector "a[class*="story-card"]" in Infobae
+Fetched Infobae: 252309 bytes
+Found 30 elements for selector "a[class*="story-card"]" in Infobae
+Fetched La Nación: 243197 bytes
+Found 34 elements for selector "article" in La Nación
+Fetched Infobae: 318604 bytes
+Found 40 elements for selector "a[class*="story-card"]" in Infobae
+Fetched La Nación: 438866 bytes
+Found 37 elements for selector "article" in La Nación
+Fetched La Nación: 565539 bytes
+Found 68 elements for selector "article" in La Nación
+Fetched Infobae: 776951 bytes
+Found 129 elements for selector "a[class*="story-card"]" in Infobae
+Fetched La Nación: 897344 bytes
+Found 143 elements for selector "article" in La Nación
+Fetched Clarín: 562611 bytes
+Found 37 elements for selector "article, div[class*="content-"]" in Clarín
+Fetched Clarín: 746550 bytes
+Found 63 elements for selector "article, div[class*="content-"]" in Clarín
+Fetched Clarín: 592824 bytes
+Found 37 elements for selector "article, div[class*="content-"]" in Clarín
+Fetched Clarín: 3115624 bytes
+Found 119 elements for selector "article, div[class*="content-"]" in Clarín
+Fetched Clarín: 3115624 bytes
+Found 119 elements for selector "article, div[class*="content-"]" in Clarín
+Starting scrape for Clarín (https://www.clarin.com/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/)
+Starting scrape for Infobae (https://www.infobae.com/)
+Starting scrape for Clarín (https://www.clarin.com/politica/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/politica/)
+Starting scrape for Infobae (https://www.infobae.com/politica/)
+Starting scrape for Clarín (https://www.clarin.com/economia/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/economia/)
+Starting scrape for Infobae (https://www.infobae.com/economia/)
+Starting scrape for Clarín (https://www.clarin.com/deportes/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/deportes/)
+Starting scrape for Infobae (https://www.infobae.com/deportes/)
+Fetched Infobae: 157766 bytes
+Found 0 elements for selector "a[class*="story-card"]" in Infobae
+Fetched La Nación: 243197 bytes
+Found 34 elements for selector "article" in La Nación
+Fetched Infobae: 252309 bytes
+Found 30 elements for selector "a[class*="story-card"]" in Infobae
+Fetched Infobae: 318604 bytes
+Found 40 elements for selector "a[class*="story-card"]" in Infobae
+Fetched La Nación: 438866 bytes
+Found 37 elements for selector "article" in La Nación
+Fetched La Nación: 565539 bytes
+Found 68 elements for selector "article" in La Nación
+Fetched Infobae: 776951 bytes
+Found 129 elements for selector "a[class*="story-card"]" in Infobae
+Fetched Clarín: 562611 bytes
+Found 37 elements for selector "article, div[class*="content-"]" in Clarín
+Fetched La Nación: 897344 bytes
+Found 143 elements for selector "article" in La Nación
+Fetched Clarín: 592824 bytes
+Found 37 elements for selector "article, div[class*="content-"]" in Clarín
+Fetched Clarín: 746550 bytes
+Found 63 elements for selector "article, div[class*="content-"]" in Clarín
+Fetched Clarín: 3115624 bytes
+Found 119 elements for selector "article, div[class*="content-"]" in Clarín
+Starting scrape for Clarín (https://www.clarin.com/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/)
+Starting scrape for Infobae (https://www.infobae.com/)
+Starting scrape for Clarín (https://www.clarin.com/politica/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/politica/)
+Starting scrape for Infobae (https://www.infobae.com/politica/)
+Starting scrape for Clarín (https://www.clarin.com/economia/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/economia/)
+Starting scrape for Infobae (https://www.infobae.com/economia/)
+Starting scrape for Clarín (https://www.clarin.com/deportes/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/deportes/)
+Starting scrape for Infobae (https://www.infobae.com/deportes/)
+Fetched Infobae: 252309 bytes
+Found 30 elements for selector "a[class*="story-card"]" in Infobae
+Fetched Infobae: 318605 bytes
+Found 40 elements for selector "a[class*="story-card"]" in Infobae
+Fetched Infobae: 157765 bytes
+Found 0 elements for selector "a[class*="story-card"]" in Infobae
+Fetched La Nación: 243196 bytes
+Found 34 elements for selector "article" in La Nación
+Fetched La Nación: 438878 bytes
+Found 37 elements for selector "article" in La Nación
+Fetched La Nación: 565539 bytes
+Found 68 elements for selector "article" in La Nación
+Fetched La Nación: 897346 bytes
+Found 143 elements for selector "article" in La Nación
+Fetched Infobae: 779334 bytes
+Found 130 elements for selector "a[class*="story-card"]" in Infobae
+Fetched Clarín: 562611 bytes
+Found 37 elements for selector "article, div[class*="content-"]" in Clarín
+Fetched Clarín: 592824 bytes
+Found 37 elements for selector "article, div[class*="content-"]" in Clarín
+Fetched Clarín: 710982 bytes
+Found 62 elements for selector "article, div[class*="content-"]" in Clarín
+Fetched Clarín: 3115624 bytes
+Found 119 elements for selector "article, div[class*="content-"]" in Clarín
+Starting scrape for Clarín (https://www.clarin.com/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/)
+Starting scrape for Infobae (https://www.infobae.com/)
+Starting scrape for Clarín (https://www.clarin.com/politica/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/politica/)
+Starting scrape for Infobae (https://www.infobae.com/politica/)
+Starting scrape for Clarín (https://www.clarin.com/economia/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/economia/)
+Starting scrape for Infobae (https://www.infobae.com/economia/)
+Starting scrape for Clarín (https://www.clarin.com/deportes/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/deportes/)
+Starting scrape for Infobae (https://www.infobae.com/deportes/)
+Fetched Infobae: 157765 bytes
+Found 0 elements for selector "a[class*="story-card"]" in Infobae
+Fetched La Nación: 243196 bytes
+Found 34 elements for selector "article" in La Nación
+Fetched Infobae: 252309 bytes
+Found 30 elements for selector "a[class*="story-card"]" in Infobae
+Fetched Infobae: 318605 bytes
+Found 40 elements for selector "a[class*="story-card"]" in Infobae
+Fetched La Nación: 438878 bytes
+Found 37 elements for selector "article" in La Nación
+Fetched La Nación: 565539 bytes
+Found 68 elements for selector "article" in La Nación
+Starting scrape for Clarín (https://www.clarin.com/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/)
+Starting scrape for Infobae (https://www.infobae.com/)
+Starting scrape for Clarín (https://www.clarin.com/politica/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/politica/)
+Starting scrape for Infobae (https://www.infobae.com/politica/)
+Starting scrape for Clarín (https://www.clarin.com/economia/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/economia/)
+Starting scrape for Infobae (https://www.infobae.com/economia/)
+Starting scrape for Clarín (https://www.clarin.com/deportes/)
+Starting scrape for La Nación (https://www.lanacion.com.ar/deportes/)
+Starting scrape for Infobae (https://www.infobae.com/deportes/)
+Fetched Infobae: 779334 bytes
+Found 130 elements for selector "a[class*="story-card"]" in Infobae
+Fetched Infobae: 157765 bytes
+Found 0 elements for selector "a[class*="story-card"]" in Infobae
+Fetched La Nación: 897346 bytes
+Found 143 elements for selector "article" in La Nación
+Fetched Clarín: 562611 bytes
+Found 37 elements for selector "article, div[class*="content-"]" in Clarín
+Fetched Infobae: 252309 bytes
+Found 30 elements for selector "a[class*="story-card"]" in Infobae
+Fetched La Nación: 243197 bytes
+Found 34 elements for selector "article" in La Nación
+Fetched Infobae: 318605 bytes
+Found 40 elements for selector "a[class*="story-card"]" in Infobae
+Fetched Clarín: 710982 bytes
+Found 62 elements for selector "article, div[class*="content-"]" in Clarín
+Fetched Clarín: 592824 bytes
+Found 37 elements for selector "article, div[class*="content-"]" in Clarín
+Fetched La Nación: 438878 bytes
+Found 37 elements for selector "article" in La Nación
+Fetched La Nación: 565539 bytes
+Found 68 elements for selector "article" in La Nación
+Fetched Clarín: 562611 bytes
+Found 37 elements for selector "article, div[class*="content-"]" in Clarín
+Fetched Clarín: 592824 bytes
+Found 37 elements for selector "article, div[class*="content-"]" in Clarín
+Fetched Infobae: 779334 bytes
+Found 130 elements for selector "a[class*="story-card"]" in Infobae
+Fetched La Nación: 897346 bytes
+Found 143 elements for selector "article" in La Nación
+Fetched Clarín: 710982 bytes
+Found 62 elements for selector "article, div[class*="content-"]" in Clarín
+Fetched Clarín: 3115624 bytes
+Found 119 elements for selector "article, div[class*="content-"]" in Clarín
+Fetched Clarín: 3115624 bytes
+Found 119 elements for selector "article, div[class*="content-"]" in Clarín

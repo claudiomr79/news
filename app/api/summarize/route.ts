@@ -1,13 +1,13 @@
 import { NextRequest, NextResponse } from 'next/server';
-import OpenAI from 'openai';
+import Groq from 'groq-sdk';
 import * as cheerio from 'cheerio';
 
-function getOpenAIClient() {
-  const apiKey = process.env.OPENAI_API_KEY;
+function getGroqClient() {
+  const apiKey = process.env.GROQ_API_KEY;
   if (!apiKey) {
     return null;
   }
-  return new OpenAI({ apiKey });
+  return new Groq({ apiKey });
 }
 
 async function fetchArticleContent(url: string): Promise<string> {
@@ -65,10 +65,10 @@ export async function POST(request: NextRequest) {
       return NextResponse.json({ error: 'URL requerida' }, { status: 400 });
     }
 
-    const openai = getOpenAIClient();
-    if (!openai) {
+    const groq = getGroqClient();
+    if (!groq) {
       return NextResponse.json(
-        { error: 'API key de OpenAI no configurada. Configura OPENAI_API_KEY en las variables de entorno.' },
+        { error: 'API key de Groq no configurada. Configura GROQ_API_KEY en las variables de entorno.' },
         { status: 500 }
       );
     }
@@ -83,9 +83,9 @@ export async function POST(request: NextRequest) {
       );
     }
 
-    // Generar resumen con OpenAI
-    const completion = await openai.chat.completions.create({
-      model: 'gpt-3.5-turbo',
+    // Generar resumen con Groq (Llama 3)
+    const completion = await groq.chat.completions.create({
+      model: 'llama-3.1-8b-instant',
       messages: [
         {
           role: 'system',
