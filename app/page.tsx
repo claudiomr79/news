@@ -1,13 +1,11 @@
-import { getNews } from '@/lib/news-service';
-import { NewsDashboard } from '@/components/NewsDashboard';
+import { getNews } from "@/lib/news-service";
+import { NewsDashboard } from "@/components/NewsDashboard";
 
-// Revalidate every 15 minutes
-export const revalidate = 900;
+export const dynamic = "force-dynamic";
+export const fetchCache = "force-no-store";
 
 export default async function Home() {
   const news = await getNews();
 
-  return (
-    <NewsDashboard initialNews={news} />
-  );
+  return <NewsDashboard initialNews={news} />;
 }
